@@ -10,7 +10,7 @@ function CardsSlider() {
         <Carousel.Item>
             <CardGroup style={{display:"flex", gap:"40px", justifyContent:"space-around"}}>           
                 <Card className="bg-dark text-white" style={{width:"300px", height:"300px"}}>
-                    <Card.Img src="../public/logo192.png" alt="Card image" style={{width:"300px", height:"300px", paddingLeft:"10%"}}/>
+                    <Card.Img src="../logo192.png" alt="Card image" style={{width:"300px", height:"300px", paddingLeft:"10%"}}/>
                     <Card.ImgOverlay>
                         <Card.Title>Card title</Card.Title>
                         <Card.Text>
@@ -21,7 +21,7 @@ function CardsSlider() {
                     </Card.ImgOverlay>
                 </Card>
                 <Card className="bg-dark text-white" style={{width:"300px", height:"300px"}}>
-                    <Card.Img src="../public/logo192.png" alt="Card image" style={{width:"300px", height:"300px", paddingLeft:"10%"}} />
+                    <Card.Img src="../logo192.png" alt="Card image" style={{width:"300px", height:"300px", paddingLeft:"10%"}} />
                     <Card.ImgOverlay>
                         <Card.Title>Card title</Card.Title>
                         <Card.Text>
@@ -32,7 +32,7 @@ function CardsSlider() {
                     </Card.ImgOverlay>
                 </Card>
                 <Card className="bg-dark text-white" style={{width:"300px", height:"300px"}}>
-                    <Card.Img src="../public/logo192.png" alt="Card image" style={{width:"300px", height:"300px", paddingLeft:"10%"}} />
+                    <Card.Img src="../logo192.png" alt="Card image" style={{width:"300px", height:"300px", paddingLeft:"10%"}} />
                     <Card.ImgOverlay>
                         <Card.Title>Card title</Card.Title>
                         <Card.Text>
@@ -47,7 +47,7 @@ function CardsSlider() {
         <Carousel.Item>
         <CardGroup style={{display:"flex", gap:"40px", justifyContent:"space-around"}}>           
                 <Card className="bg-dark text-white" style={{width:"300px", height:"300px"}}>
-                    <Card.Img src="../public/logo192.png" alt="Card image" style={{width:"300px", height:"300px", paddingLeft:"10%"}}/>
+                    <Card.Img src="../logo192.png" alt="Card image" style={{width:"300px", height:"300px", paddingLeft:"10%"}}/>
                     <Card.ImgOverlay>
                         <Card.Title>Card title</Card.Title>
                         <Card.Text>
@@ -58,7 +58,7 @@ function CardsSlider() {
                     </Card.ImgOverlay>
                 </Card>
                 <Card className="bg-dark text-white" style={{width:"300px", height:"300px"}}>
-                    <Card.Img src="../public/logo192.png" alt="Card image" style={{width:"300px", height:"300px", paddingLeft:"10%"}}/>
+                    <Card.Img src="../logo192.png" alt="Card image" style={{width:"300px", height:"300px", paddingLeft:"10%"}}/>
                     <Card.ImgOverlay>
                         <Card.Title>Card title</Card.Title>
                         <Card.Text>
@@ -69,7 +69,7 @@ function CardsSlider() {
                     </Card.ImgOverlay>
                 </Card>
                 <Card className="bg-dark text-white" style={{width:"300px", height:"300px"}}>
-                    <Card.Img src="../public/logo192.png" alt="Card image" style={{width:"300px", height:"300px", paddingLeft:"10%"}}/>
+                    <Card.Img src="../logo192.png" alt="Card image" style={{width:"300px", height:"300px", paddingLeft:"10%"}}/>
                     <Card.ImgOverlay>
                         <Card.Title>Card title</Card.Title>
                         <Card.Text>
@@ -84,7 +84,7 @@ function CardsSlider() {
         <Carousel.Item>
         <CardGroup style={{display:"flex", gap:"40px", justifyContent:"space-around"}}>           
                 <Card className="bg-dark text-white" style={{width:"300px", height:"300px"}}>
-                    <Card.Img src="../public/logo192.png" alt="Card image" style={{width:"300px", height:"300px", paddingLeft:"10%"}}/>
+                    <Card.Img src="../logo192.png" alt="Card image" style={{width:"300px", height:"300px", paddingLeft:"10%"}}/>
                     <Card.ImgOverlay>
                         <Card.Title>Card title</Card.Title>
                         <Card.Text>
@@ -95,7 +95,7 @@ function CardsSlider() {
                     </Card.ImgOverlay>
                 </Card>
                 <Card className="bg-dark text-white" style={{width:"300px", height:"300px"}}>
-                    <Card.Img src="../public/logo192.png" alt="Card image" style={{width:"300px", height:"300px", paddingLeft:"10%"}}/>
+                    <Card.Img src="../logo192.png" alt="Card image" style={{width:"300px", height:"300px", paddingLeft:"10%"}}/>
                     <Card.ImgOverlay>
                         <Card.Title>Card title</Card.Title>
                         <Card.Text>
@@ -106,7 +106,7 @@ function CardsSlider() {
                     </Card.ImgOverlay>
                 </Card>
                 <Card className="bg-dark text-white" style={{width:"300px", height:"300px"}}>
-                    <Card.Img src="../public/logo192.png" alt="Card image" style={{width:"300px", height:"300px", paddingLeft:"10%"}}/>
+                    <Card.Img src="../logo192.png" alt="Card image" style={{width:"300px", height:"300px", paddingLeft:"10%"}}/>
                     <Card.ImgOverlay>
                         <Card.Title>Card title</Card.Title>
                         <Card.Text>

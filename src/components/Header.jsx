@@ -5,6 +5,7 @@ import Container from 'react-bootstrap/Container';
 import Form from 'react-bootstrap/Form';
 import FormControl from 'react-bootstrap/FormControl';
 import Button from 'react-bootstrap/Button';
+import { Link } from "react-router-dom"
 
 function Header() {
   return (
@@ -21,10 +22,9 @@ function Header() {
                 >
                     <Nav.Link href="/">Home</Nav.Link>
                     <NavDropdown title="Link" id="navbarScrollingDropdown">
-                    <NavDropdown.Item href="/movies">All Movies</NavDropdown.Item>
+                    <NavDropdown.Item href="/movies"><Link to="/movies">All Movies</Link></NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="/register">
-                        User Registration
+                    <NavDropdown.Item href="/register"><Link to="/movies">User Registrations</Link>                       
                     </NavDropdown.Item>
                     </NavDropdown>
                 </Nav>
